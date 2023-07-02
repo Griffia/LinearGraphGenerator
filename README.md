@@ -3,7 +3,7 @@
 ## Description
 This program creates a randomly generated linear graph, in the form y = mx + c with the following limits:
 * The gradient, m != 0
-* x is from -100 to +100
+* x is from -100 to +100 (This can be changed with the source file)
 * The y-intercept, c is from -5 to +5
 
 ~~**Currently the graphs will not zoom in correctly when using the zoom-in tool as part of the plot.show() function.**~~
