@@ -2,9 +2,9 @@
 
 ## Description
 This program creates a randomly generated linear graph, in the form y = mx + c with the following limits:
-* m != 0
+* The gradient, m != 0
 * x is from -5 to +5
-* c is from -5 to +5
+* The y-intercept, c is from -5 to +5
 
 **Currently the graphs will not zoom in correctly when using the zoom-in tool as part of the plot.show() function.**
 <br><br/>
@@ -19,6 +19,12 @@ You will need to have the following PIP packages installed:
 Either copy and paste the code from GitHub, or download the raw file to use within the IDE of your choice.
 
 ## Examples
+![image](https://github.com/Griffia/LinearGraphGenerator/assets/100473677/a3bfc428-03c2-45bd-ae8b-fb453380223e)
+Randomly Generated Graph of y = 3x - 2
+
+![image](https://github.com/Griffia/LinearGraphGenerator/assets/100473677/60373b39-4e1f-4529-92e2-b71943ef5a5f)
+Randomly Generated graph of y = -4x - 5
+
 
 
 
