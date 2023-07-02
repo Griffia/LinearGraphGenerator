@@ -20,9 +20,11 @@ Either copy and paste the code from GitHub, or download the raw file to use with
 
 ## Examples
 ![image](https://github.com/Griffia/LinearGraphGenerator/assets/100473677/a3bfc428-03c2-45bd-ae8b-fb453380223e)
+
 Randomly Generated Graph of y = 3x - 2
 
 ![image](https://github.com/Griffia/LinearGraphGenerator/assets/100473677/60373b39-4e1f-4529-92e2-b71943ef5a5f)
+
 Randomly Generated graph of y = -4x - 5
 
 
